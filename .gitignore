@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+data/*.txt
+generate_git_history.sh
+*.html
+*.pdf

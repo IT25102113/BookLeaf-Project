@@ -1,0 +1,54 @@
+=== BookLeaf Orders Record ===
+Generated: 2026-05-15 00:38:17
+Total Records: 6
+================================================
+
+Order ID: 1
+Customer: Dulara Anjanaahaha
+Total: $63.96
+Payment: CARD
+Status: CONFIRMED
+Date: 2026-05-02 10:44:22
+  - Malagiya Attho x3 (HARDCOPY) = $44.97
+  - Kuda Hora x1 (HARDCOPY) = $18.99
+------------------------------------------------
+Order ID: 2
+Customer: Dulara Anjanaahaha
+Total: $22.99
+Payment: BANK_SLIP
+Status: DELIVERED
+Date: 2026-05-02 10:45:03
+  - Viragaya x1 (HARDCOPY) = $22.99
+------------------------------------------------
+Order ID: 3
+Customer: anjana
+Total: $570.00
+Payment: CARD
+Status: PENDING
+Date: 2026-05-12 15:50:11
+  - Malagiya Attho x1 (HARDCOPY) = $600.00
+------------------------------------------------
+Order ID: 4
+Customer: Dulara Anjanaahaha
+Total: $850.00
+Payment: BANK_SLIP
+Status: CANCELLED
+Date: 2026-05-13 20:33:32
+  - Gamperaliyaa x1 (HARDCOPY) = $850.00
+------------------------------------------------
+Order ID: 5
+Customer: Dulara Anjanaahaha
+Total: $1575.00
+Payment: CARD
+Status: CONFIRMED
+Date: 2026-05-14 15:11:26
+  - Madol Doova x7 (HARDCOPY) = $3150.00
+------------------------------------------------
+Order ID: 6
+Customer: Dulara Anjanaahaha
+Total: $560.00
+Payment: BANK_SLIP
+Status: EMAIL_SENT
+Date: 2026-05-14 16:22:45
+  - Hath Pana x2 (EBOOK) = $560.00
+------------------------------------------------

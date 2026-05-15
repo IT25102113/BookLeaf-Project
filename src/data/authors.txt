@@ -1,0 +1,50 @@
+=== BookLeaf Authors Directory ===
+Generated: 2026-05-15 01:38:25
+Total Records: 9
+================================================
+
+ID: 1
+Name: Martin Wickramasinghe
+Bio: The father of modern Sinhala literature, known for his realistic fiction and cultural essays.
+Linked User: Admin-created
+------------------------------------------------
+ID: 2
+Name: Ediriweera Sarachchandra
+Bio: A legendary Sri Lankan playwright, novelist, and poet who revived Sinhala drama.
+Linked User: Admin-created
+------------------------------------------------
+ID: 3
+Name: Kumaratunga Munidasa
+Bio: A pioneer linguist, grammarian, and writer who founded the Hela Havula movement.
+Linked User: Admin-created
+------------------------------------------------
+ID: 4
+Name: Sybil Wettasinghe
+Bio: Renowned children's book author and illustrator, famous for "Kuda Hora".
+Linked User: Admin-created
+------------------------------------------------
+ID: 5
+Name: T. B. Ilangaratne
+Bio: A beloved novelist and politician known for portraying rural life in Sri Lanka.
+Linked User: Admin-created
+------------------------------------------------
+ID: 6
+Name: Gunadasa Amarasekara
+Bio: A prominent contemporary novelist, poet, and social critic.
+Linked User: Admin-created
+------------------------------------------------
+ID: 8
+Name: du
+Bio: ghj
+Linked User: du@gmail.com
+------------------------------------------------
+ID: 9
+Name: ag
+Bio: 
+Linked User: a@g.com
+------------------------------------------------
+ID: 10
+Name: gaya
+Bio: hj
+Linked User: gaya@gmail.com
+------------------------------------------------

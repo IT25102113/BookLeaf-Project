@@ -1,0 +1,21 @@
+=== BookLeaf Discounts Record ===
+Generated: 2026-05-14 15:07:59
+Total Records: 2
+================================================
+
+ID: 2
+Name: msasas
+Type: SEASONAL
+Percentage: 50.0%
+Active: Yes
+End Date: 2026-05-06
+Description: 
+------------------------------------------------
+ID: 3
+Name: dsds
+Type: PRICE_CAP
+Percentage: 50.0%
+Active: Yes
+Price Cap: $1000.00
+Description: d
+------------------------------------------------

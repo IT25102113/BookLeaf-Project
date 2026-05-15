@@ -1,0 +1,95 @@
+=== BookLeaf Books Catalog ===
+Generated: 2026-05-14 16:01:19
+Total Records: 10
+================================================
+
+ID: 1
+Title: Gamperaliyaa
+ISBN: 978-9551096001
+Category: Classic
+Price: $850.00
+Quantity: 39
+Author: Martin Wickramasinghe
+E-Book: Available
+------------------------------------------------
+ID: 2
+Title: Madol Doova
+ISBN: 978-9551096056
+Category: Adventure
+Price: $450.00
+Quantity: 93
+Author: Martin Wickramasinghe
+E-Book: Available
+------------------------------------------------
+ID: 3
+Title: Malagiya Attho
+ISBN: 978-9551096100
+Category: Novel
+Price: $600.00
+Quantity: 29
+Author: Sybil Wettasinghe
+E-Book: Not Available
+------------------------------------------------
+ID: 4
+Title: Hath Pana
+ISBN: 978-9551234567
+Category: Children
+Price: $350.00
+Quantity: 60
+Author: Kumaratunga Munidasa
+E-Book: Available
+------------------------------------------------
+ID: 5
+Title: Kuda Hora
+ISBN: 978-9559511112
+Category: Children
+Price: $400.00
+Quantity: 80
+Author: Sybil Wettasinghe
+E-Book: Available
+------------------------------------------------
+ID: 6
+Title: Amba Yaluwo
+ISBN: 978-9555990101
+Category: Fiction
+Price: $550.00
+Quantity: 50
+Author: T. B. Ilangaratne
+E-Book: Available
+------------------------------------------------
+ID: 7
+Title: Karumakkarayo
+ISBN: 978-9559000021
+Category: Drama
+Price: $700.00
+Quantity: 25
+Author: Gunadasa Amarasekara
+E-Book: Not Available
+------------------------------------------------
+ID: 8
+Title: Viragaya
+ISBN: 978-9551096002
+Category: Classic
+Price: $950.00
+Quantity: 35
+Author: Martin Wickramasinghe
+E-Book: Available
+------------------------------------------------
+ID: 9
+Title: prema dadayamaaa
+ISBN: 34567890
+Category: dramafdf
+Price: $934567.00
+Quantity: 89
+Author: du
+E-Book: Available
+------------------------------------------------
+ID: 11
+Title: 23refedsf
+ISBN: 2345
+Category: egecdqsd
+Price: $43.00
+Quantity: 234
+Author: gaya
+E-Book: Not Available
+------------------------------------------------

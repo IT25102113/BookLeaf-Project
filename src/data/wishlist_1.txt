@@ -1,0 +1,15 @@
+=== BookLeaf Wishlist - Dulara Anjanaahaha ===
+Generated: 2026-05-14 15:24:17
+Total Items: 2
+================================================
+
+Book: Hath Pana
+Author: Kumaratunga Munidasa
+Price: $350.00
+Added: 2026-05-13 20:16:11
+------------------------------------------------
+Book: Madol Doova
+Author: Martin Wickramasinghe
+Price: $450.00
+Added: 2026-05-14 15:24:17
+------------------------------------------------

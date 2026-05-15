@@ -1,0 +1,15 @@
+=== BookLeaf Wishlist - anjana ===
+Generated: 2026-05-12 15:47:46
+Total Items: 2
+================================================
+
+Book: Gamperaliya
+Author: Martin Wickramasinghe
+Price: $850.00
+Added: 2026-05-12 15:47:33
+------------------------------------------------
+Book: Malagiya Attho
+Author: Ediriweera Sarachchandra
+Price: $600.00
+Added: 2026-05-12 15:47:46
+------------------------------------------------
